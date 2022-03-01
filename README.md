@@ -1,2 +1,3 @@
 # jenkins-notes
-documentation and scripts
+
+Goto WIKI for Documentation
